@@ -49,75 +49,75 @@ function App() {
                                 <ul>
                                     <li className="ml-0">
                                         <label className="item-radio item-content">
-                                            <input type="radio" name="color-radio" value="red" checked/><i className="ti-check"></i>
-                                            <span className="circle-color bg-red" style={{backgroundColor: '#ff3b30'}}></span>
+                                            <input type="radio" name="color-radio" value="red" checked=""/><i className="ti-check"></i>
+                                            <span className="circle-color bg-red" style="background-color: #ff3b30;"></span>
                                         </label>
                                     </li>
                                     <li className="ml-0">
                                         <label className="item-radio item-content">
                                             <input type="radio" name="color-radio" value="green"/><i className="ti-check"></i>
-                                            <span className="circle-color bg-green" style={{backgroundColor: '#4cd964'}}></span>
+                                            <span className="circle-color bg-green" style="background-color: #4cd964;"></span>
                                         </label>
                                     </li>
                                     <li className="ml-0">
                                         <label className="item-radio item-content">
-                                            <input type="radio" name="color-radio" value="blue" checked/><i className="ti-check"></i>
-                                            <span className="circle-color bg-blue" style={{backgroundColor: '#132977'}}></span>
+                                            <input type="radio" name="color-radio" value="blue" checked=""/><i className="ti-check"></i>
+                                            <span className="circle-color bg-blue" style="background-color: #132977;"></span>
                                         </label>
                                     </li>
                                     <li className="ml-0">
                                         <label className="item-radio item-content">
                                             <input type="radio" name="color-radio" value="pink"/><i className="ti-check"></i>
-                                            <span className="circle-color bg-pink" style={{backgroundColor: '#ff2d55'}}></span>
+                                            <span className="circle-color bg-pink" style="background-color: #ff2d55;"></span>
                                         </label>
                                     </li>
                                     <li className="ml-0">
                                         <label className="item-radio item-content">
                                             <input type="radio" name="color-radio" value="yellow"/><i className="ti-check"></i>
-                                            <span className="circle-color bg-yellow" style={{backgroundColor: '#ffcc00'}}></span>
+                                            <span className="circle-color bg-yellow" style="background-color: #ffcc00;"></span>
                                         </label>
                                     </li>
                                     <li className="ml-0">
                                         <label className="item-radio item-content">
                                             <input type="radio" name="color-radio" value="orange"/><i className="ti-check"></i>
-                                            <span className="circle-color bg-orange" style={{backgroundColor: '#ff9500'}}></span>
+                                            <span className="circle-color bg-orange" style="background-color: #ff9500;"></span>
                                         </label>
                                     </li>
                                     <li className="ml-0">
                                         <label className="item-radio item-content">
                                             <input type="radio" name="color-radio" value="gray"/><i className="ti-check"></i>
-                                            <span className="circle-color bg-gray" style={{backgroundColor: '#8e8e93'}}></span>
+                                            <span className="circle-color bg-gray" style="background-color: #8e8e93;"></span>
                                         </label>
                                     </li>
 
                                     <li className="ml-0">
                                         <label className="item-radio item-content">
                                             <input type="radio" name="color-radio" value="brown"/><i className="ti-check"></i>
-                                            <span className="circle-color bg-brown" style={{backgroundColor: '#D2691E'}}></span>
+                                            <span className="circle-color bg-brown" style="background-color: #D2691E;"></span>
                                         </label>
                                     </li>
                                     <li className="ml-0">
                                         <label className="item-radio item-content">
                                             <input type="radio" name="color-radio" value="darkgreen"/><i className="ti-check"></i>
-                                            <span className="circle-color bg-darkgreen" style={{backgroundColor: '#228B22'}}></span>
+                                            <span className="circle-color bg-darkgreen" style="background-color: #228B22;"></span>
                                         </label>
                                     </li>
                                     <li className="ml-0">
                                         <label className="item-radio item-content">
                                             <input type="radio" name="color-radio" value="deeppink"/><i className="ti-check"></i>
-                                            <span className="circle-color bg-deeppink" style={{backgroundColor: '#FFC0CB'}}></span>
+                                            <span className="circle-color bg-deeppink" style="background-color: #FFC0CB;"></span>
                                         </label>
                                     </li>
                                     <li className="ml-0">
                                         <label className="item-radio item-content">
                                             <input type="radio" name="color-radio" value="cadetblue"/><i className="ti-check"></i>
-                                            <span className="circle-color bg-cadetblue" style={{backgroundColor: '#5f9ea0'}}></span>
+                                            <span className="circle-color bg-cadetblue" style="background-color: #5f9ea0;"></span>
                                         </label>
                                     </li>
                                     <li className="ml-0 d-inline-block">
                                         <label className="item-radio item-content">
                                             <input type="radio" name="color-radio" value="darkorchid"/><i className="ti-check"></i>
-                                            <span className="circle-color bg-darkorchid" style={{backgroundColor: '#9932cc'}}></span>
+                                            <span className="circle-color bg-darkorchid" style="background-color: #9932cc;"></span>
                                         </label>
                                     </li>
                                 </ul>
@@ -146,7 +146,7 @@ function App() {
                                     </div>
                                 </div>
                                 <div className="card bg-transparent-card border-0 d-block mt-3">
-                                    <h4 className="d-inline font-xssss mont-font fw-700">Dark Mode</h4>
+                                <h4 className="d-inline font-xssss mont-font fw-700">Dark Mode</h4>
                                     <div className="d-inline float-right mt-1">
                                         <label className="toggle toggle-dark"><input type="checkbox"/><span className="toggle-icon"></span></label>
                                     </div>
@@ -158,6 +158,7 @@ function App() {
                     <li><a href="#" className="menu-search-icon"><i className="feather-search text-grey-900 font-lg"></i></a></li>
                 </ul>
             </div>
+       
 		</>
 	);
 }
