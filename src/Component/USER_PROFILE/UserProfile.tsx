@@ -1,8 +1,6 @@
 
 import NavigationProfile from "./NavigationProfile";
-import SIDE_BAR_HEADER from "./SIDE_BAR_HEADER";
 import SIDE_BAR_LEFT from "./SIDE_BAR_LEFT";
-import SIDE_BAR_RIGHT from "./SIDE_BAR_RIGHT";
 import Footer from "./Footer";
 
 function App() {

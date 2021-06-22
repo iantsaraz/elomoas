@@ -78,7 +78,7 @@ function App() {
                                             </div>
                                         </div>
 
-                                        <a href="#" className="rounded-xxl border-dashed mb-2 p-3 w-100 fw-600 fw-700 text-center font-xssss mont-font text-uppercase ls-3 text-grey-900 d-block  text-dark">Add Card</a>
+                                        <a href="/" className="rounded-xxl border-dashed mb-2 p-3 w-100 fw-600 fw-700 text-center font-xssss mont-font text-uppercase ls-3 text-grey-900 d-block  text-dark">Add Card</a>
 
                                     </div>
                                     <div className="col-lg-6 offset-lg-1">
@@ -135,7 +135,7 @@ function App() {
                                                             </div>
                                                         </div>
                                                         <div className="col-12">
-                                                            <a href="#" className="rounded-lg bg-current mb-2 mt-4 p-3 w-100 fw-600 fw-700 text-center font-xssss mont-font text-uppercase ls-3 text-white d-block">Add Card</a>
+                                                            <a href="/" className="rounded-lg bg-current mb-2 mt-4 p-3 w-100 fw-600 fw-700 text-center font-xssss mont-font text-uppercase ls-3 text-white d-block">Add Card</a>
                                                         </div>
                                                     </div>
                                                 </form>

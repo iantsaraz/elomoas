@@ -13,7 +13,7 @@ function App() {
                 </form>
                 <ul className="d-flex ml-auto right-menu-icon">
                     <li>
-                        <a href="#"><span className="dot-count bg-warning"></span><i className="feather-bell font-xl text-current"></i>
+                        <a href="/"><span className="dot-count bg-warning"></span><i className="feather-bell font-xl text-current"></i>
                             <div className="menu-dropdown">
                                 <h4 className="fw-700 font-xs mb-4">Notification</h4>
                                 <div className="card bg-transparent-card w-100 border-0 pl-5 mb-3">
@@ -42,7 +42,7 @@ function App() {
                     </li>
                     <li><a href="message.html"><i className="feather-message-square font-xl text-current"></i></a></li>
                     <li>
-                        <a href="#"><i className="feather-settings animation-spin d-inline-block font-xl text-current"></i>
+                        <a href="/"><i className="feather-settings animation-spin d-inline-block font-xl text-current"></i>
                             <div className="menu-dropdown switchcolor-wrap">
                                 <h4 className="fw-700 font-xs mb-4">Settings</h4>
                                  <h6 className="font-xssss text-grey-500 fw-700 mb-3 d-block">Choose Color Theme</h6>
@@ -155,7 +155,7 @@ function App() {
                         </a>
                     </li>
                     <li><a href="/Default_User_Profile"><img src="https://via.placeholder.com/50x50.png" alt="user" className="w40 rounded-circle mt--1"/></a></li>
-                    <li><a href="#" className="menu-search-icon"><i className="feather-search text-grey-900 font-lg"></i></a></li>
+                    <li><a href="/" className="menu-search-icon"><i className="feather-search text-grey-900 font-lg"></i></a></li>
                 </ul>
             </div>
 		</>

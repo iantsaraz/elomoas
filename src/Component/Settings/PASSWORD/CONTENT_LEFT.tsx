@@ -11,7 +11,7 @@ function App() {
                                 <h4 className="font-xs text-white fw-600 ml-4 mb-0 mt-2">Change Password</h4>
                             </div>
                             <div className="card-body p-lg-5 p-4 w-100 border-0">
-                                <form action="#">
+                                <form action="/">
                                     <div className="row">
                                         <div className="col-lg-12 mb-3">
                                             <div className="form-gorup">
@@ -38,7 +38,7 @@ function App() {
                                     </div>
                                     <div className="row">
                                         <div className="col-lg-12 mb-0">
-                                            <a href="#" className="bg-current text-center text-white font-xsss fw-600 p-3 w175 rounded-lg d-inline-block">Save</a>
+                                            <a href="/" className="bg-current text-center text-white font-xsss fw-600 p-3 w175 rounded-lg d-inline-block">Save</a>
                                         </div>
                                     </div>
 

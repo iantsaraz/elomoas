@@ -46,11 +46,11 @@ function App() {
                                     </div>
                                 </form>
                                 <ul className="d-flex align-items-center justify-content-between mt-3">
-                                    <li><a href="#" className="btn-round-md bg-facebook"><i className="font-xs ti-facebook text-white"></i></a></li>
-                                    <li><a href="#" className="btn-round-md bg-twiiter"><i className="font-xs ti-twitter-alt text-white"></i></a></li>
-                                    <li><a href="#" className="btn-round-md bg-linkedin"><i className="font-xs ti-linkedin text-white"></i></a></li>
-                                    <li><a href="#" className="btn-round-md bg-instagram"><i className="font-xs ti-instagram text-white"></i></a></li>
-                                    <li><a href="#" className="btn-round-md bg-pinterest"><i className="font-xs ti-pinterest text-white"></i></a></li>
+                                    <li><a href="/" className="btn-round-md bg-facebook"><i className="font-xs ti-facebook text-white"></i></a></li>
+                                    <li><a href="/" className="btn-round-md bg-twiiter"><i className="font-xs ti-twitter-alt text-white"></i></a></li>
+                                    <li><a href="/" className="btn-round-md bg-linkedin"><i className="font-xs ti-linkedin text-white"></i></a></li>
+                                    <li><a href="/" className="btn-round-md bg-instagram"><i className="font-xs ti-instagram text-white"></i></a></li>
+                                    <li><a href="/" className="btn-round-md bg-pinterest"><i className="font-xs ti-pinterest text-white"></i></a></li>
                                 </ul>
                             </div>
                         </div>

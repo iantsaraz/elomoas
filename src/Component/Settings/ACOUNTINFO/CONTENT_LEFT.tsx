@@ -13,10 +13,10 @@ function App() {
                             <div className="card-body p-lg-5 p-4 w-100 border-0 ">
                             <div className="row justify-content-center">
                                 <div className="col-lg-4 text-center">
-                                    <figure className="avatar ml-auto mr-auto mb-0 mt-2 w100"><img src="https://via.placeholder.com/100x100.png" alt="image" className="shadow-sm rounded-lg w-100"/></figure>
+                                    <figure className="avatar ml-auto mr-auto mb-0 mt-2 w100"><img src="https://via.placeholder.com/100x100.png" alt="" className="shadow-sm rounded-lg w-100"/></figure>
                                     <h2 className="fw-700 font-sm text-grey-900 mt-3">Surfiya Zakir</h2>
                                     <h4 className="text-grey-500 fw-500 mb-3 font-xsss mb-4">Brooklyn</h4>    
-                                    {/* <!-- <a href="#" className="p-3 alert-primary text-primary font-xsss fw-500 mt-2 rounded-lg">Upload New Photo</a> --> */}
+                                    {/* <!-- <a href="/" className="p-3 alert-primary text-primary font-xsss fw-500 mt-2 rounded-lg">Upload New Photo</a> --> */}
                                 </div>
                             </div>
 
@@ -104,7 +104,7 @@ function App() {
                                     </div>
 
                                     <div className="col-lg-12">
-                                        <a href="#" className="bg-current text-center text-white font-xsss fw-600 p-3 w175 rounded-lg d-inline-block">Save</a>
+                                        <a href="/" className="bg-current text-center text-white font-xsss fw-600 p-3 w175 rounded-lg d-inline-block">Save</a>
                                     </div>
                                 </div>
 

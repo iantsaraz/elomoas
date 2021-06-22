@@ -13,7 +13,7 @@ function App() {
                             <div className="card-body p-lg-5 p-4 w-100 border-0 mb-0">
                              
 
-                            <form action="#">
+                            <form action="">
                                  
 
                                 <div className="row">
@@ -50,7 +50,7 @@ function App() {
                                
                                 </div>
                                 <div className="col-lg-12 mb-0 mt-2 pl-0">
-                                    <a href="#" className="bg-current text-center text-white font-xsss fw-600 p-3 w175 rounded-lg d-inline-block">Save</a>
+                                    <a href="/" className="bg-current text-center text-white font-xsss fw-600 p-3 w175 rounded-lg d-inline-block">Save</a>
                                 </div>
                             </form>
                             </div>

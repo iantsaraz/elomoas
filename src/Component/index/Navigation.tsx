@@ -13,7 +13,7 @@ function App() {
 									Elomoas.{" "}
 								</span>{" "}
 							</a>
-							<a href='#' className='close-nav d-inline-block d-lg-none'>
+							<a href="/" className='close-nav d-inline-block d-lg-none'>
 								<i className='ti-close bg-grey mb-4 btn-round-sm font-xssss fw-700 text-dark ml-auto mr-2 '></i>
 							</a>
 						</div>
@@ -80,7 +80,7 @@ function App() {
 						<ul className='mb-3'>
 							<li>
 								<a
-									href='#'
+									href="/"
 									className='nav-content-bttn open-font pl-2 pb-2 pt-1 h-auto'
 									data-tab='chats'
 								>
@@ -95,7 +95,7 @@ function App() {
 							</li>
 							<li>
 								<a
-									href='#'
+									href="/"
 									className='nav-content-bttn open-font pl-2 pb-2 pt-1 h-auto'
 									data-tab='chats'
 								>
@@ -110,7 +110,7 @@ function App() {
 							</li>
 							<li>
 								<a
-									href='#'
+									href="/"
 									className='nav-content-bttn open-font pl-2 pb-2 pt-1 h-auto'
 									data-tab='chats'
 								>
@@ -125,7 +125,7 @@ function App() {
 							</li>
 							<li>
 								<a
-									href='#'
+									href="/"
 									className='nav-content-bttn open-font pl-2 pb-2 pt-1 h-auto'
 									data-tab='chats'
 								>
@@ -155,7 +155,7 @@ function App() {
 							</li>
 							<li>
 								<a
-									href='default-analytics.html'
+									href='/Analytics'
 									className='nav-content-bttn open-font h-auto pt-2 pb-2'
 								>
 									<i className='font-sm feather-pie-chart mr-3 text-grey-500'></i>
