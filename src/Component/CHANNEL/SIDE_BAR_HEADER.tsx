@@ -49,7 +49,7 @@ function App() {
                                 <ul>
                                     <li className="ml-0">
                                         <label className="item-radio item-content">
-                                            <input type="radio" name="color-radio" value="red" checked/><i className="ti-check"></i>
+                                            <input type="radio" name="color-radio" value="red" defaultChecked/><i className="ti-check"></i>
                                             <span className="circle-color bg-red" style={{backgroundColor: '#ff3b30'}}></span>
                                         </label>
                                     </li>
@@ -61,7 +61,7 @@ function App() {
                                     </li>
                                     <li className="ml-0">
                                         <label className="item-radio item-content">
-                                            <input type="radio" name="color-radio" value="blue" checked/><i className="ti-check"></i>
+                                            <input type="radio" name="color-radio" value="blue" defaultChecked/><i className="ti-check"></i>
                                             <span className="circle-color bg-blue" style={{backgroundColor: '#132977'}}></span>
                                         </label>
                                     </li>

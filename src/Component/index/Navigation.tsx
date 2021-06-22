@@ -1,6 +1,6 @@
 
 
-function App() {
+function Navigation() {
 	return (
 			// {/* <!-- navigation --> */}
 			<nav className='navigation scroll-bar'>
@@ -24,7 +24,7 @@ function App() {
 							<li className='logo d-none d-xl-block d-lg-block'></li>
 							<li>
 								<a
-									href='default.html'
+									href='/'
 									className='active nav-content-bttn open-font'
 									data-tab='chats'
 								>
@@ -44,7 +44,7 @@ function App() {
 							</li>
 							<li>
 								<a
-									href='default-channel.html'
+									href='/Channel'
 									className='nav-content-bttn open-font'
 									data-tab='favorites'
 								>
@@ -182,4 +182,4 @@ function App() {
 	);
 }
 
-export default App;
+export default Navigation;
