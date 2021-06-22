@@ -1,7 +1,6 @@
 
 
 function App() {
-
 	return (
 		<>
 		<div className="middle-sidebar-right scroll-bar">

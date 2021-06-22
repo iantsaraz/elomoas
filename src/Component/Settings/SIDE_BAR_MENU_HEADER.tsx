@@ -146,7 +146,7 @@ function App() {
                                     </div>
                                 </div>
                                 <div className="card bg-transparent-card border-0 d-block mt-3">
-                                <h4 className="d-inline font-xssss mont-font fw-700">Dark Mode</h4>
+                                    <h4 className="d-inline font-xssss mont-font fw-700">Dark Mode</h4>
                                     <div className="d-inline float-right mt-1">
                                         <label className="toggle toggle-dark"><input type="checkbox"/><span className="toggle-icon"></span></label>
                                     </div>
@@ -158,7 +158,6 @@ function App() {
                     <li><a href="#" className="menu-search-icon"><i className="feather-search text-grey-900 font-lg"></i></a></li>
                 </ul>
             </div>
-       
 		</>
 	);
 }

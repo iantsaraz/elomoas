@@ -36,7 +36,7 @@ function App() {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-9 navbar pt-0 pb-0">
-                            <a href="index.html"><h1 className="fredoka-font ls-3 fw-700 text-current font-xxl">Elomoas <span className="d-block font-xsssss ls-1 text-grey-500 open-font ">Online Learning Course</span></h1></a>
+                            <a href="/"><h1 className="fredoka-font ls-3 fw-700 text-current font-xxl">Elomoas <span className="d-block font-xsssss ls-1 text-grey-500 open-font ">Online Learning Course</span></h1></a>
                             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                                 <span className="navbar-toggler-icon"></span>
                             </button>

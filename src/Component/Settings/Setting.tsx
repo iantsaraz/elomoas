@@ -1,10 +1,8 @@
-
-import Navigation from "./Navigation";
+import Navigation from "../index/Navigation";
 import SIDE_BAR_MENU_HEADER from "./SIDE_BAR_MENU_HEADER";
 import SIDE_BAR_MENU_LEFT from "./SIDE_BAR_MENU_LEFT";
 import SIDE_BAR_MENU_RIGHT from "./SIDE_BAR_MENU_RIGHT";
 import FOOTER from "./FOOTER";
-
 function App() {
 	return (
 		<div className='color-theme-blue mont-font'>

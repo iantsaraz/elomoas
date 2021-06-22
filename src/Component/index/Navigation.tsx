@@ -7,7 +7,7 @@ function App() {
 				<div className='container pl-0 pr-0'>
 					<div className='nav-content'>
 						<div className='nav-top'>
-							<a href='default.html'>
+							<a href='/'>
 								<i className='feather-slack text-success display1-size mr-3 ml-3'></i>
 								<span className='d-inline-block fredoka-font ls-3 fw-600 text-current font-xl logo-text mb-0'>
 									Elomoas.{" "}
@@ -146,7 +146,7 @@ function App() {
 							<li className='logo d-none d-xl-block d-lg-block'></li>
 							<li>
 								<a
-									href='default-settings.html'
+									href='/Setting'
 									className='nav-content-bttn open-font h-auto pt-2 pb-2'
 								>
 									<i className='font-sm feather-settings mr-3 text-grey-500'></i>
