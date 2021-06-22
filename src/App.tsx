@@ -3,6 +3,7 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 import './App.css';
 import Index from './Component/index/Index'
 import Profile from './Component/DEFAULTUSER_PROFILE/Profile'
+// import UserProfile from './Component/USER_PROFILE/UserProfile'
 
 
 function App() {
@@ -11,7 +12,8 @@ function App() {
        <BrowserRouter>
           <Switch>
               <Route exact path='/' component={Index} />
-              <Route exact path='/User_Profile' component={Profile} />
+              <Route exact path='/Default_User_Profile' component={Profile} />
+              {/* <Route exact path='/Default_User_Profile' component={UserProfile} /> */}
             
 
           </Switch>

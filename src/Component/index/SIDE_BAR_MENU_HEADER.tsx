@@ -154,7 +154,7 @@ function App() {
                             </div>
                         </a>
                     </li>
-                    <li><a href="/User_Profile"><img src="https://via.placeholder.com/50x50.png" alt="user" className="w40 rounded-circle mt--1"/></a></li>
+                    <li><a href="/Default_User_Profile"><img src="https://via.placeholder.com/50x50.png" alt="user" className="w40 rounded-circle mt--1"/></a></li>
                     <li><a href="#" className="menu-search-icon"><i className="feather-search text-grey-900 font-lg"></i></a></li>
                 </ul>
             </div>

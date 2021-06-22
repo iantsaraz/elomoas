@@ -8,26 +8,28 @@ import Footer from "./Footer";
 function App() {
 	return (
 		<div className='color-theme-blue mont-font'>
-   			<div className="preloader"></div>
+			<div className="preloader"></div>
 
-			<div className='main-wrapper'>
+			<div className='main-wrap'>
 				{/* <!-- navigation --> */}
 				<NavigationProfile />
-		
+
 
 				{/* <!-- main content --> */}
-				<div className='main-content'>
-					
-					<SIDE_BAR_HEADER/>
-					<div className="middle-sidebar-bottom">
-						<SIDE_BAR_LEFT/>
-						<SIDE_BAR_RIGHT/>
+				<div className="course-details pb-lg--7 pt-4 pb-5">
+					<div className="container">
+						<div className="row">
+							<div className="col-lg-12">
+								<SIDE_BAR_LEFT />
+							</div>
+						</div>
 					</div>
-					<Footer/>
 				</div>
-				
 			</div>
+			<Footer />
 		</div>
+				
+		
 	);
 }
 
